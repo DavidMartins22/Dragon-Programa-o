@@ -31,3 +31,9 @@ Construímos essa aventura digital com:
 * **Design Responsivo:** A aplicação foi pensada para funcionar bem em diferentes tamanhos de tela.
 
 ## Estrutura de Pastas
+
+## Contribua!
+
+Se você tem ideias para novos heróis da programação, quer melhorar o design ou adicionar mais funcionalidades, sinta-se à vontade para contribuir! Este é um espaço para a criatividade no mundo do código.
+
+## "O código é a nossa magia!" 
